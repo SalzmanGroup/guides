@@ -1,0 +1,64 @@
+{
+	"auto_complete": true,
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/Railscasts (SL).tmTheme",
+	"create_window_at_startup": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.project",
+		".cap_tasks*",
+		"*.scssc"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".sass-cache",
+		"tmp",
+		"bin",
+		"vendor/cache"
+	],
+	"font_face": "Ubuntu Mono",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Rails Developer Snippets",
+		"Rails Partial",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"open_files_in_new_window": true,
+  "rulers": [80],
+	"show_full_path": true,
+	"smart_indent": true,
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": false,
+	"use_tab_stops": true
+}
