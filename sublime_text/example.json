@@ -3,7 +3,6 @@
   "auto_indent": true,
   "bold_folder_labels": true,
   "caret_style": "phase",
-  "color_scheme": "Packages/User/Railscasts (SL).tmTheme",
   "create_window_at_startup": false,
   "ensure_newline_at_eof_on_save": true,
   "file_exclude_patterns":
@@ -40,13 +39,10 @@
     "bin",
     "vendor/cache"
   ],
-  "font_face": "Ubuntu Mono",
   "font_size": 12,
   "highlight_line": true,
   "ignored_packages":
   [
-    "Rails Developer Snippets",
-    "Rails Partial",
     "Vintage"
   ],
   "line_padding_bottom": 1,
@@ -56,7 +52,6 @@
   "show_full_path": true,
   "smart_indent": true,
   "tab_size": 2,
-  "theme": "Soda Light.sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_automatic_white_space": true,
   "trim_trailing_white_space_on_save": false,
