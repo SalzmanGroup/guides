@@ -7,7 +7,7 @@
 * Indent with two spaces (not tabs)
 * Prefer double quotes for HTML attributes
 * Only add spacing line breaks between two nodes at the same indentation
-  
+
   ```html
     <div>
       <div>
@@ -28,7 +28,7 @@
 * Empty content tags may be put on one line
 * Self-closing tags should end with a space and slash and occupy their own line
 * This is a comprehensive list of valid self-closing tags:
-  
+
   ```html
     <area />
     <base />
@@ -47,7 +47,6 @@
     <track />
     <wbr />
   ```
-* foo
 
 ## IDs and Classes
 
