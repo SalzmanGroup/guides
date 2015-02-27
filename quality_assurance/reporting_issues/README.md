@@ -12,8 +12,10 @@ Bugs are given the highest priority when tasks are organized and scheduled durin
 
 ### What to report
 
- - Unexpected result from a behavior
- > When I click "Add to Cart", I __expect__ to see an item in my cart. Instead, there is nothing in my cart which is __unexpected__
+ - Unexpected result from a behavior 
+```   
+When I click "Add to Cart", I expect to see an item in my cart. Instead, there is nothing in my cart which is unexpected
+```
  - Broken links
  - 500 or Internal Server Errors
  - Unnatural formatting or design on a mobile device or computer
@@ -21,10 +23,12 @@ Bugs are given the highest priority when tasks are organized and scheduled durin
 ### Helpful tips for reporting a bug
 
 
- - Include steps to reproduce the issue. Assume the person reading the issue has no prior knowledge about the problem.  
- > 1. First visit a product that has a price under $10
- > 1. Then click "Add to Cart"
- > 1. Refresh the page
+ - Include steps to reproduce the issue. Assume the person reading the issue has no prior knowledge about the problem. 
+```
+1. First visit a product that has a price under $10
+2. Then click "Add to Cart"
+3. Refresh the page
+```
  - Describe a behavior that is expected, and what actually happened
  > I expect to see items in my cart, but there are none.
  - Include URLs where relevant.
